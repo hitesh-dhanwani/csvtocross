@@ -3,6 +3,7 @@
  
  
 var data = null;
+var data2 = null;
 function GetUnique(inputArray)
 {
     var outputArray = [];
